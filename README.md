@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=1f328d&height=300&section=header&text=HanTongo&fontSize=90&fontColor=9EA8DC" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=1f328d&height=300&section=header&text=Ethan%20Tong&fontSize=90&fontColor=9EA8DC" />
 </p>
 
 <!--
